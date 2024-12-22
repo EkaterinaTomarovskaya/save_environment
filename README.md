@@ -1,3 +1,5 @@
+<a name="твоё_название"></a> 
+
 This project is a simple and easy-to-use one-page landing page with a news subscription form. It is created for educational purposes to demonstrate skills of working with HTML and CSS.
 
 Deploy workflow To use this workflow, you can either download and extract the latest release or clone the repository:
