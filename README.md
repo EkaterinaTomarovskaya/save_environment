@@ -3,7 +3,7 @@ This project is a simple and easy-to-use one-page landing page with a news subsc
 Deploy workflow
 To use this workflow, you can either download and extract the latest release or clone the repository:
 
-[git clone https://github.com/EkaterinaTomarovskaya/save_environment.git]
+`git clone https://github.com/EkaterinaTomarovskaya/save_environment.git`
 
 Functionality:
 Main screen with welcome text.
